@@ -3,7 +3,10 @@ set nocompatible
 call pathogen#infect()
 
 "Standard config
-syntax on
+syntax enable
+set background=dark
+colorscheme solarized
+
 filetype off
 filetype plugin indent on
 
