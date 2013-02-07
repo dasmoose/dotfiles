@@ -10,6 +10,10 @@ colorscheme solarized
 filetype off
 filetype plugin indent on
 
+"line numbers
+set number
+set numberwidth=1
+
 "Search
 set incsearch
 set hlsearch
