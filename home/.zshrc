@@ -14,6 +14,7 @@ eval "$(rbenv init -)"
 alias lsa='ls -la'
 alias l='ls -a'
 alias c='clear'
+alias p='cd ~/projects'
 
 #navigation
 alias home='cd ~/.homesick/repos/dasmoose/dotfiles'
